@@ -1,0 +1,9 @@
+Package: com.plutinosoft.cplogger
+Name: CBLogger
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Sylvain Rebaud
+Author: Sylvain Rebaud
+Section: Tweaks
