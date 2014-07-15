@@ -4,7 +4,7 @@ CBLogger
 iOS CoreBluetooth API logger jailbreak tweak
 
 In my desire to hack the Jawbone Up24 to make it vibrate based on certain external events, I needed a way to understand the protocol the iOS app uses.
-While the Bluetooth LE security is completely broken, I didn't want to have to buy one of these ubertooth device.
+While the Bluetooth LE security is completely [broken](https://www.usenix.org/conference/woot13/workshop-program/presentation/ryan), I didn't want to have to buy one of these [ubertooth device](http://ubertooth.sourceforge.net/).
 
 Instead I opted to write a jailbreak tweak that would log every iOS CoreBluetooth calls made by the app and see if I could reverse engineer it.
 And before you know it, I could see everything:
